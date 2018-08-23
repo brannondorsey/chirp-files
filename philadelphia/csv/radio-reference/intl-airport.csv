@@ -1,0 +1,106 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+118.35000,0.00000,,Philadelphia Intl Airport Air Traffic Control,SW DuPont area,SW DuPont,CSQ,AM,BM,Aircraft
+118.50000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Tower 1,Tower 1,CSQ,AM,BM,Aircraft
+118.85000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Clearance Delivery,Clear/Deliv,CSQ,AM,BM,Aircraft
+119.75000,0.00000,,Philadelphia Intl Airport Air Traffic Control,South Departure,S Departure,CSQ,AM,BM,Aircraft
+120.42500,0.00000,,Philadelphia Intl Airport Air Traffic Control,ILS 27L,ILS 27L,CSQ,AM,BM,Aircraft
+121.50000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Emergency,Emergency,CSQ,AM,BM,Aircraft
+121.65000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Ground Control 2  Taxi,Grnd Cntrl 2,CSQ,AM,BM,Aircraft
+121.70000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Ground Control,Ground Cntrl,CSQ,AM,BM,Aircraft
+121.90000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Ground Control 1,Grnd Cntrl 1,CSQ,AM,BM,Aircraft
+122.90000,0.00000,,Philadelphia Intl Airport Air Traffic Control,CTAF,CTAF,CSQ,AM,BM,Aircraft
+122.95000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Unicom,Unicom,CSQ,AM,BM,Aircraft
+123.80000,0.00000,,Philadelphia Intl Airport Air Traffic Control,NE Yardley area,NE Yardley,CSQ,AM,BM,Aircraft
+124.35000,0.00000,,Philadelphia Intl Airport Air Traffic Control,North Departure,N Departure,CSQ,AM,BM,Aircraft
+125.12500,0.00000,,Philadelphia Intl Airport Air Traffic Control,South High,South High,CSQ,AM,BM,Aircraft
+125.40000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Final Approach,Final App,CSQ,AM,BM,Aircraft
+126.07500,0.00000,,Philadelphia Intl Airport Air Traffic Control,North High,North High,CSQ,AM,BM,Aircraft
+126.85000,0.00000,,Philadelphia Intl Airport Air Traffic Control,NW Pottstown area,NW Pottstown,CSQ,AM,BM,Aircraft
+126.90000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Local Control,KPNE Tower,CSQ,AM,BM,Aircraft
+127.25000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Clearence Delivery,Clear/Deliv,CSQ,AM,BM,Aircraft
+127.35000,0.00000,,Philadelphia Intl Airport Air Traffic Control,ApproachDeparture Woodstown area,A/D Woodstwn,CSQ,AM,BM,Aircraft
+128.40000,0.00000,,Philadelphia Intl Airport Air Traffic Control,North Arrival,N Arrival,CSQ,AM,BM,Aircraft
+128.40000,0.00000,,Philadelphia Intl Airport Air Traffic Control,NNEW 279,N/NE/W 27/9,CSQ,AM,BM,Aircraft
+128.82500,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways,US Airways,CSQ,AM,BM,Aircraft
+128.85000,0.00000,,Philadelphia Intl Airport Airline Company Channels,LGA Cit AA,LGA Cit/AA,CSQ,AM,BM,Aircraft
+129.00000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Signature Flight Support,Signature FS,CSQ,AM,BM,Aircraft
+129.17500,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Express ,US Air Expr,CSQ,AM,BM,Aircraft
+129.20000,0.00000,,Philadelphia Intl Airport Airline Company Channels,American Operations,American Air,CSQ,AM,BM,Aircraft
+129.30000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Mesa,Mesa,CSQ,AM,BM,Aircraft
+129.42500,0.00000,,Philadelphia Intl Airport Airline Company Channels,Emery Airborne,Emr/Airborne,CSQ,AM,BM,Aircraft
+129.50000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Delta Radio 1,Delta Radio ,CSQ,AM,BM,Aircraft
+129.57500,0.00000,,Philadelphia Intl Airport Airline Company Channels,Central Deicing Pad Control,De-Ice Pad,CSQ,AM,BM,Business
+129.70000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Signature Flight Support,Signature FS,CSQ,AM,BM,Aircraft
+129.80000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways  Load Control  OCC,USAirLoadOCC,CSQ,AM,BM,Aircraft
+129.92500,0.00000,,Philadelphia Intl Airport Airline Company Channels,Continental,Continental,CSQ,AM,BM,Aircraft
+130.00000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways  Maintenance,US Air Maint,CSQ,AM,BM,Aircraft
+130.05000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Ramp 1,US Air Ramp1,CSQ,AM,BM,Aircraft
+130.07500,0.00000,,Philadelphia Intl Airport Airline Company Channels,American Airlines,American Air,CSQ,AM,BM,Aircraft
+130.10000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Operations,US Air Ops,CSQ,AM,BM,Aircraft
+130.15000,0.00000,,Philadelphia Intl Airport Airline Company Channels,British Airways,British Air,CSQ,AM,BM,Aircraft
+130.40000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Atlantic Aviation  Continental,Atlantic Avi,CSQ,AM,BM,Aircraft
+130.42500,0.00000,,Philadelphia Intl Airport Airline Company Channels,Virgin America,Virgin Am,CSQ,AM,BM,Business
+130.50000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Express,US Air Expr,CSQ,AM,BM,Aircraft
+130.52500,0.00000,,Philadelphia Intl Airport Airline Company Channels,Continental,Continental,CSQ,AM,RM,Aircraft
+130.57500,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways  Ramp 2,US Air Ramp2,CSQ,AM,BM,Business
+130.60000,0.00000,,Philadelphia Intl Airport Airline Company Channels,First Aviation,1st Aviation,CSQ,AM,BM,Aircraft
+130.82500,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways,US Airways,CSQ,AM,BM,Aircraft
+130.85000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways,US Airways,CSQ,AM,BM,Aircraft
+130.87500,0.00000,,Philadelphia Intl Airport Airline Company Channels,Aircan US Airways,Aircan USAir,CSQ,AM,BM,Aircraft
+130.92500,0.00000,WPWI322,Philadelphia Intl Airport Airline Company Channels,US Airways Express Mesa,US Air Expr,CSQ,AM,BM,Aircraft
+131.00000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Operations,US Air Ops,CSQ,AM,BM,Aircraft
+131.10000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Express ,US Air Expr,CSQ,AM,RM,Aircraft
+131.30000,0.00000,,Philadelphia Intl Airport Airline Company Channels,United Parcel Service,UPS,CSQ,AM,BM,Aircraft
+131.52500,0.00000,,Philadelphia Intl Airport Airline Company Channels,Air Jamaica,Air Jamaica,CSQ,AM,BM,Aircraft
+131.60000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Express,US Air Expr,CSQ,AM,BM,Aircraft
+131.62500,0.00000,,Philadelphia Intl Airport Airline Company Channels,DHL,DHL,CSQ,AM,BM,Aircraft
+131.85000,0.00000,WSQ8,Philadelphia Intl Airport Airline Company Channels,Delta,Delta,CSQ,AM,BM,Aircraft
+131.92500,0.00000,,Philadelphia Intl Airport Airline Company Channels,FedEx,FedEx,CSQ,AM,BM,Aircraft
+131.97500,0.00000,,Philadelphia Intl Airport Airline Company Channels,Dynair,Dynair,CSQ,AM,BM,Aircraft
+132.00000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Atlantic Aviation,Atlantic Avi,CSQ,AM,BM,Aircraft
+132.67500,0.00000,,Philadelphia Intl Airport Air Traffic Control,Final Approach 2,Final App 2,CSQ,AM,BM,Aircraft
+133.40000,0.00000,,Philadelphia Intl Airport Air Traffic Control,ATIS,ATIS,CSQ,AM,B,Aircraft
+133.80000,0.00000,,Philadelphia Intl Airport Air Traffic Control,PHL,PHL,CSQ,AM,BM,Aircraft
+133.87500,0.00000,,Philadelphia Intl Airport Air Traffic Control,South Arrival,S Arrival,CSQ,AM,BM,Aircraft
+135.10000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Tower 2,Tower 2,CSQ,AM,BM,Aircraft
+135.92500,0.00000,,Philadelphia Intl Airport Air Traffic Control,ILS 26,ILS 26,CSQ,AM,BM,Aircraft
+136.50000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Atlantic Coast United Express,Atlant Coast,CSQ,AM,BM,Aircraft
+136.50000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Atlantic Coast United Express,Atlant Coast,CSQ,AM,BM,Aircraft
+166.28750,0.00000,,Philadelphia Intl Airport Federal,TSA,TSA,003 NAC,P25,RM,Federal
+166.28750,0.00000,,Philadelphia Intl Airport Federal,TSA,TSA,001 NAC,P25,RM,Federal
+171.76250,0.00000,,Philadelphia Intl Airport Federal,TSA  low power personal radios voice inversion,TSA,131.8 PL,FMN,M,Federal
+172.90000,0.00000,,Philadelphia Intl Airport Federal,TSA  Coordination Center,TSA,001 NAC,P25,RM,Federal
+263.12500,0.00000,,Philadelphia Intl Airport Air Traffic Control,ApproachDeparture,Approach/Dep,CSQ,AM,BM,Aircraft
+269.25000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Departure  South,Departure S,CSQ,AM,BM,Aircraft
+291.70000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Approach  NE,Approach NE,CSQ,AM,BM,Aircraft
+317.55000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Approach  South,Approach S,CSQ,AM,BM,Aircraft
+320.10000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Departure  North,Departure N,CSQ,AM,BM,Aircraft
+323.10000,0.00000,,Philadelphia Intl Airport Air Traffic Control,SE,SE,CSQ,AM,BM,Aircraft
+327.05000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Tower 1,Tower 1,CSQ,AM,BM,Aircraft
+348.60000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Clearance Delivery,Clear/Deliv,CSQ,AM,BM,Aircraft
+348.60000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Ground Control 1,Grnd Cntrl 1,CSQ,AM,BM,Aircraft
+363.12500,0.00000,,Philadelphia Intl Airport Air Traffic Control,Approach  NW,Approach NW,CSQ,AM,BM,Aircraft
+451.63750,456.63750,WQQN643,Philadelphia Intl Airport Airline Ground Operations,JetBlue Airways,JBU,1 RAN,NXDN,RM,Business
+451.96250,456.96250,WQAT722,Philadelphia Intl Airport Airport Services,SmartPark,SmartPark,703 DPL,FMN,RM,Business
+453.85000,458.85000,KNDN543,Philadelphia Intl Airport Airport Operations,Maintenance,Maintenance,,FM,RM,Public Works
+460.65000,0.00000,,Philadelphia Intl Airport Airport Operations,Airport Ground Operations United Airlines,Airport Ops,110.9 PL,FM,RM,Public Works
+460.70000,465.70000,WQCV321,Philadelphia Intl Airport Airline Ground Operations,British Airways  Ground Support,BAW,123.0 PL,FM,RM,Business
+460.72500,465.72500,KBO745,Philadelphia Intl Airport Airline Ground Operations,United Airlines,UAL,,DMR,RM,Business
+460.75000,0.00000,WPZX863 ,Philadelphia Intl Airport Airline Ground Operations,Southwest Airlines,SWA,023 DPL,FMN,M,Business
+460.77500,465.77500,KXK923,Philadelphia Intl Airport Airline Ground Operations,American Airlines,AAL,114.8 PL,FMN,BM,Business
+460.87500,465.87500,WPCV305,Philadelphia Intl Airport Airline Ground Operations,Delta Airlines,DAL,127.3 PL,FMN,RM,Business
+461.56250,466.56250,WQAT722,Philadelphia Intl Airport Airport Services,SmartPark,SmartPark,162.2 PL,FMN,RM,Business
+461.88750,466.88750,WQPD214,Philadelphia Intl Airport Airport Services,PreFlight Parking,PreFlight,223 DPL,FMN,RM,Business
+462.02500,0.00000,WPUX469,Philadelphia Intl Airport Airline Ground Operations,Aircraft Service International Group  US Airways BC Terminal,ASIG TermB/C,132 DPL,FM,M,Business
+462.12500,467.12500,WQEU894,Philadelphia Intl Airport Airport Services,First Transit  Airport Shuttle Buses,FirstTrans,565 DPL,FMN,RM,Business
+462.22500,467.22500,WPZX863,Philadelphia Intl Airport Airline Ground Operations,Southwest Airlines,Southwest,025 DPL,FM,RM,Business
+462.50000,467.50000,WQCZ417,Philadelphia Intl Airport Airport Services,Enterprise RentACar,Enterprise,565 DPL,FMN,RM,Business
+462.51250,467.51250,WPMH864,Philadelphia Intl Airport Airport Services,Parkway  Taxi Dispatch,Taxi Dispatc,743 DPL,FMN,RM,Business
+463.50000,468.50000,WPZX863,Philadelphia Intl Airport Airline Ground Operations,Southwest Airlines,Southwest,464 DPL,FM,RM,Business
+463.55000,0.00000,WPUX469,Philadelphia Intl Airport Airline Ground Operations,Aircraft Service International Group  US Airways Express F Terminal,ASIG Term F,132 DPL,FM,M,Business
+463.67500,468.67500,WPZX865,Philadelphia Intl Airport Airline Ground Operations,Southwest Airlines  Ramp,SWA Ramp,100.0 PL,FMN,RM,Business
+463.98750,468.98750,WQIB244,Philadelphia Intl Airport Airline Ground Operations,Air Wisconsin  Maintenance,AWI Maint,743 DPL,FMN,RM,Business
+464.57500,469.57500,WPZX863,Philadelphia Intl Airport Airline Ground Operations,Southwest Airlines  Wheelchairs,SWA Wchr,025 DPL,FM,RM,Business
+464.90000,0.00000,WPUX469,Philadelphia Intl Airport Airline Ground Operations,Aircraft Service International Group  Afternoon A Terminal,ASIG Term A,132 DPL,FM,M,Business
+866.57500,0.00000,WQCH483,Philadelphia Intl Airport Airport Operations,PHL Airport Tactical 1,KPHL Tac 1,N-CAD NAC,FM,M,Public Works
+868.97500,0.00000,WQCH483,Philadelphia Intl Airport Airport Operations,PHL Airport Tactical 2,KPHL Tac 2,N-CAD NAC,FM,M,Public Works

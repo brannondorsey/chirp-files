@@ -1,0 +1,71 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+72.80000,0.00000,,Sports StadiumsArenas Wells Fargo Center,HearingAssist Transmitters,Hearing Aids,,FM,B,Business
+151.89500,0.00000,,Sports StadiumsArenas Citizens Bank Park,Scoreboard,Scoreboard,,FM,M,Business
+154.57000,0.00000,,Sports StadiumsArenas Wells Fargo Center,Wireless Headsets for Game Operations,Wireless,,FM,M,Business
+177.80000,0.00000,,Sports StadiumsArenas Wells Fargo Center,Wireless Headsets for Game Operations,Wireless,,FM,M,Deprecated
+183.73000,0.00000,,Sports StadiumsArenas Wells Fargo Center,Wireless Headsets for Game Operations,Wireless,,FM,M,Deprecated
+451.36250,456.36250,WQDL307,Sports StadiumsArenas Wells Fargo Center,Information Technology Department,IT Dept,,DMR,RM,Business
+451.66250,456.66250,,Sports StadiumsArenas Wells Fargo Center,Arenavision techs F2,AV Techs 2,,DMR,RM,Business
+452.01250,457.01250,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 1  Command Center,Command Ctr,311 DPL,FM,RM,Business
+452.17500,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 11  Media relationsPublic Relations,Public Relat,,FM,M,Business
+452.78750,457.78750,WQDL307,Sports StadiumsArenas Wells Fargo Center,Parking Ch 1,Parking 1,,Telm,RM,Business
+456.90000,0.00000,WQGP939,Sports StadiumsArenas Citizens Bank Park,Aramark Beer Cooler  Supply,Beer Cooler,506 DPL,FM,M,Business
+456.97500,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 3  Medical,Medical,,DMR,M,EMS-Talk
+457.17500,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 12  Corporate sales,Corp Sales,,FM,M,Business
+457.80000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 4  Aramark Food Service Management,FoodSvc Mgmt,506 DPL,FMN,M,Business
+461.05000,466.05000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 5  Global Spectrum Slot 1 Group 14,GlobalSpctrm,CC 1|TG *|SL *,DMR,RM,Business
+461.07500,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 9  Scoreboard,Scoreboard,,FM,M,Business
+461.12500,466.12500,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 2  Housekeeping,Housekeeping,172 DPL,FM,RM,Business
+461.13750,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Security Ch 4  Auxiliary,Security 4,,FM,M,Security
+461.17500,466.17500,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 6  ARA Custodians Slot 1 Group 15,Custodial,CC 1|TG *|SL *,DMR,RM,Business
+461.20000,466.20000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 17  Aramark Food Service,Food Service,146.2 PL,FM,RM,Business
+461.23750,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Security Ch 1  Simplex,Security 1,,FM,M,Security
+461.38750,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Security Ch 2  Command Post Simplex,Security 2,,FM,M,Security
+461.38750,466.38750,,Sports StadiumsArenas Wells Fargo Center,Aramark Food Service,Food Service,,DMR,RM,Business
+461.42500,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 7  Promo  Entertainment,Entertainmnt,,DMR,M,Business
+461.51250,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Aramark Food Service  Suite Level,Food Service,,DMR,BM,Business
+461.60000,467.60000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 16  Emergency Repeater,Emergency,,DMR,RM,Business
+461.75000,466.75000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 6  Premium Services,Premium Svcs,351 DPL,FM,RM,Business
+461.80000,466.80000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 3  Event Staff,Event Staff,654 DPL,FM,RM,Business
+461.85000,466.85000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 1  Park Operations  Public Security Slot 1 Group 11,Park Ops/Sec,CC 1|TG *|SL *,DMR,RM,Security
+462.01250,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Extra 1  76ers Game Operations,76er GameOps,,DMR,BM,Business
+462.06250,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Extra 2  Talent coordination ,Talent Coord,,DMR,BM,Business
+463.35000,468.35000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 15  Rest Association,Rest Assoc,432 DPL,FM,RM,Business
+463.40000,468.40000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 13  Stores  Retail,Retail,351 DPL,FM,RM,Business
+463.45000,468.45000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 2  Player Security Slot 1 Group 12,Player Sec,CC 1|TG *|SL *,DMR,RM,Security
+463.60000,468.60000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 14  Sports Services,Sports Svcs,071 DPL,FM,RM,Business
+463.61250,0.00000,,Sports StadiumsArenas Wells Fargo Center,Aramark Food Service  Club Box Level,Food Service,,DMR,BM,Business
+463.73750,468.73750,WPKF287,Sports StadiumsArenas Wells Fargo Center,Operations,Operations,,DMR,RM,Business
+463.83750,468.83750,WPYC747,Sports StadiumsArenas Lincoln Financial Field,The Linc ,The Linc,332 DPL,FM,RM,Business
+463.86250,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Arenavision techs F1,AV Techs 1,,DMR,BM,Business
+463.90000,468.90000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Security  Command Center,Security,,DMR,RM,Security
+463.98750,0.00000,,Sports StadiumsArenas Wells Fargo Center,Aramark Food Service  Holts  Victors,Food Service,,DMR,BM,Business
+464.01250,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Building Services  Maintenance,Bldg Maint,,DMR,BM,Business
+464.02500,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 4  VIP Parking,VIP Parking,065 DPL,FM,M,Business
+464.08750,469.08750,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Security Ch 3  Repeater Primary,Security 3,,FM,RM,Security
+464.13750,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Public Relations  76ers Operations Management,Public Relat,,DMR,BM,Business
+464.18750,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,VIP  Flyers,VIP / Flyers,,DMR,BM,Business
+464.72500,469.72500,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 7  Medical,Medical,229.1 PL,FM,RM,Business
+464.75000,469.75000,,Sports StadiumsArenas Lincoln Financial Field,Security New 2010,Security,233.6 PL,FM,RM,Security
+464.76250,0.00000,,Sports StadiumsArenas Wells Fargo Center,Parking  Outside Security,Parking/Sec,,DMR,RM,Business
+465.73750,0.00000,,Sports StadiumsArenas Wells Fargo Center,Arenavision ,ArenaVision,,DMR,BM,Business
+466.02500,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 8  AudioVideo,Audio/Video,,DMR,M,Business
+466.07500,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 16  Trainers,Trainers,,FM,M,Business
+466.07500,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 10  Swoop,Swoop,,FM,M,Business
+466.27500,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 9  Parking,Parking,,DMR,M,Business
+466.32500,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 10  Upper Concourse and Ramp Security,UC/Ramp Sec,,DMR,M,Security
+466.42500,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 11  Bullpen Security,Bullpen Sec,,DMR,M,Security
+466.57500,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 12  Premium Services,Premium Svcs,,DMR,M,Business
+466.71250,0.00000,,Sports StadiumsArenas Citizens Bank Park,Comcast Sportsnet,Sportsnet,,FM,M,Business
+466.76250,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Operations Event Coordination,Event Coord,,DMR,RM,Business
+466.86250,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Operations Event Coordination,Event Coord,,DMR,RM,Business
+466.97500,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 13  Switch Over,Ch 13 T/A,,DMR,M,Business
+467.66250,0.00000,,Sports StadiumsArenas Wells Fargo Center,Flyers,Flyers,,FM,M,Business
+468.30000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 14  Switch Over,Ch 14 T/A,,DMR,M,Business
+468.42500,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 15  Switch Over,Ch 15 T/A,,DMR,M,Business
+468.60000,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 8  AudioVideo,Audio/Video,,FM,M,Business
+468.70000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Emergency Simplex,Emergency,,DMR,M,Business
+468.90000,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Security  Command Center Direct,Security,,DMR,BM,Security
+469.02500,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 5  Cheerleaders,Cheerleaders,,FM,M,Business
+469.08750,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Parking Ch 2  Scalper Patrol,Parking 2,,FM,BM,Business
+476.05000,0.00000,,Sports StadiumsArenas Wells Fargo Center,Cameramen,Cameramen,,FM,RM,Business

@@ -1,0 +1,51 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+135.87500,0.00000,,Businesses TV News Stations,News Helo AirAir,News A-A875,,AM,M,Aircraft
+135.97500,0.00000,,Businesses TV News Stations,News Helo AirAir Scene Coordination,News Air-Air,,AM,M,Aircraft
+151.52000,0.00000,,Businesses Taxi Companies,All City Taxi  Dispatch,All CityTaxi,CSQ,FM,BM,Transportation
+152.31500,0.00000,WQGL692,Businesses The Franklin Institute,Operations 1,FI Ops 1,CC 10|TG 1|SL 2,DMR,RM,Business
+152.31500,0.00000,WQGL692,Businesses The Franklin Institute,Operations 2,FI Ops 2,CC 10|TG 1|SL 1,DMR,RM,Business
+152.33000,157.59000,,Businesses Taxi Companies,Walsh Cab Company poss dispatches for Yellow Cab,Walsh Cab,71.9 PL,FM,RM,Transportation
+154.57000,0.00000,,Businesses The Franklin Institute,The Franklin Institute,FranklinInst,100.0 PL,FM,M,Deprecated
+154.60000,0.00000,,Businesses The Franklin Institute,The Franklin Institute,FranklinInst,100.0 PL,FM,M,Deprecated
+161.64000,0.00000,KJV904,Businesses TV News Stations,WPVI ABC 6  News Cars,WPVI Cars,CSQ,FM,BM,Media
+161.67000,0.00000,WPQG595,Businesses Radio Stations,WDASFM Radio Remotes,WDAS Remotes,71.9 PL,FM,BM,Media
+450.18750,0.00000,KPG670,Businesses TV News Stations,KYW CBS 3  Chopper 3 Secondary,Chopper 3,107.2 PL,FM,BM,Media
+450.28750,0.00000,KPH640,Businesses TV News Stations,WTXF Fox  29  SkyFox   Ground Units,SkyFox 29,151.4 PL,FM,RM,Media
+450.38750,0.00000,KB96736,Businesses TV News Stations,WTXF Fox 29,Fox 29,,FM,M,Media
+450.55000,455.55000,KVK604,Businesses TV News Stations,KYW CBS 3  Chopper 3 Primary,Chopper 3,107.2 PL,FM,RM,Media
+450.85000,455.85000,KPH252,Businesses Traffic Reporting Services,Metro Networks Shadow Traffic,Metro Shadow,97.4 PL,FM,RM,Media
+451.38750,456.38750,WQUI668,Businesses Philadelphia Zoo,Aramark Food Services,PhlZooAramrk,371 DPL,FMN,RM,Business
+451.40000,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 1,CCOP-CH 1,210.7 PL,FMN,M,Business
+451.97500,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 4,CCOP-CH 4,225.7 PL,FMN,M,Business
+452.22500,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 5,CCOP-CH 5,233.6 PL,FMN,M,Business
+452.40000,457.40000,WPCE473,Businesses Taxi Companies,Medallion Radio Cab  Taxi Dispatch primarily for Germantown Cab,MedallionCab,71.9 PL,FM,RM,Transportation
+452.62500,457.62500,,Businesses Medical  Hospitals,Hahnemann University Hospital  Security,HUH Security,734 DPL,FM,RM,Security
+455.05000,0.00000,KEH242,Businesses TV News Stations,WCAU NBC 10  Chopper 10 Primary,Chopper 10,114.8 PL,FM,BM,Media
+455.08750,0.00000,KPK520,Businesses TV News Stations,WPVI ABC 6  Chopper 6,Chopper 6,156.7 PL,FM,BM,Media
+455.15000,0.00000,KEH242,Businesses TV News Stations,WCAU NBC 10  Chopper 10 Secondary,Chopper 10,114.8 PL,FM,BM,Media
+455.21250,0.00000,WQAA818,Businesses TV News Stations,WCAU NBC 10  IFB Feed and Control,WCAU IFB,103.5 PL,FM,BM,Media
+455.23750,0.00000,KPK520,Businesses TV News Stations,WPVI ABC 6  IFB Feed and Control,WPVI IFB,156.7 PL,FM,BM,Media
+455.51250,0.00000,WQA948,Businesses TV News Stations,WCAU NBC 10  IFB Feed and Talent,WCAU IFB,141.3 PL,FM,BM,Media
+455.72500,450.72500,,Businesses TV News Stations,WPVI ABC 6  Chopper 6 Primary New,Chopper 6,156.7 PL,FM,RM,Media
+461.66250,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 2,CCOP-CH 2,218.1 PL,FMN,M,Business
+461.70000,466.70000,WPDA593,Businesses Medical  Hospitals,Jefferson University Hospital  Wills Eye  Security,JUH Security,CC 1|TG 1000|SL 1,DMR,RM,Security
+461.92500,466.92500,,Businesses Medical  Hospitals,UPHS Hospital of the University of Pennsylvania HUP  Security,HUP Security,250.3 PL,FM,RM,Security
+462.15000,467.15000,,Businesses Medical  Hospitals,Childrens Hospital of Philadelphia CHOP  Security,CHOP Sec,192.8 PL,FM,RM,Security
+462.15000,467.15000,,Businesses Medical  Hospitals,Childrens Hospital of Philadelphia CHOP  Helipad,CHOP Helipad,192.8 PL,FM,RM,Hospital
+462.51250,467.51250,WPXS653,Businesses Philadelphia Zoo,Operations,Philly Zoo,136.5 PL,FM,RM,Public Works
+462.71250,0.00000,,Businesses Calvary Chapel of Philadelphia,Channel 9 FRS Channel 7,CCOP-CH 9,94.8 PL,FMN,M,Business
+462.92500,0.00000,WQJA821,Businesses Philadelphia Zoo,Paging,PhlZooPaging,,FMN,B,Data
+463.48750,468.48750,WQTR326,Businesses Philadelphia Zoo,Keepers,PhlZooKeeprs,047 DPL,FMN,RM,Business
+463.53750,468.53750,WQTR326,Businesses Philadelphia Zoo,Main Ops Facilities Guest Service Retail etc,PhlZoo Main,047 DPL,FMN,RM,Business
+463.53750,468.53750,WPYY887,Businesses The Philadelphian Apartment Building,Security and Maintenance Operations,PAB Ops.,50 RAN,NXDN,RM,Business
+463.71250,468.71250,WPXS653,Businesses Philadelphia Zoo,Operations,Philly Zoo,CSQ,FM,RM,Public Works
+464.10000,469.10000,WQBV358,Businesses Medical  Hospitals,Albert Einstein Medical Center  Security,AEMC Security,10 RAN,NXDN,RM,Security
+464.31250,469.31250,WPXS653,Businesses Philadelphia Zoo,Operations,Philly Zoo,CSQ,FM,RM,Public Works
+464.40000,0.00000,,Businesses Medical  Hospitals,Methodist Hospital,Method Hosp,,FM,RM,Hospital
+464.50000,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 6,CCOP-CH 6,250.3 PL,FMN,M,Business
+464.55000,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 7,CCOP-CH 7,254.1 PL,FMN,M,Business
+464.75000,469.75000,,Businesses Central Philadelphia Development Corporation Center City District,Center City District Operations See Talkgroups List,CC District,CC 12|TG *|SL *,DMR,RM,Business
+464.81250,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 8,CCOP-CH 8,229.1 PL,FMN,M,Business
+464.81250,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 3,CCOP-CH 3,203.5 PL,FMN,M,Business
+466.97500,0.00000,WPXS653,Businesses Philadelphia Zoo,Operations,Philly Zoo,CSQ,FM,M,Public Works
+859.68750,814.68750,WNLS867,Businesses Durham School Services,Durham School Services  Operations,Durham Bus,532 DPL,FM,RM,Transportation

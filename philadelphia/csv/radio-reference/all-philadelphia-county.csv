@@ -1,0 +1,440 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+47.540000,0.00000,WZM898,Fire Department,Hospital Alerting System Tone Encoded,PFD HASTE,CSQ,FM,BM,EMS-Tac
+72.800000,0.00000,,Sports StadiumsArenas Wells Fargo Center,HearingAssist Transmitters,Hearing Aids,,FM,B,Business
+118.350000,0.00000,,Philadelphia Intl Airport Air Traffic Control,SW DuPont area,SW DuPont,CSQ,AM,BM,Aircraft
+118.500000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Tower 1,Tower 1,CSQ,AM,BM,Aircraft
+118.850000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Clearance Delivery,Clear/Deliv,CSQ,AM,BM,Aircraft
+119.750000,0.00000,,Philadelphia Intl Airport Air Traffic Control,South Departure,S Departure,CSQ,AM,BM,Aircraft
+120.425000,0.00000,,Philadelphia Intl Airport Air Traffic Control,ILS 27L,ILS 27L,CSQ,AM,BM,Aircraft
+121.500000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Emergency,Emergency,CSQ,AM,BM,Aircraft
+121.650000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Ground Control 2  Taxi,Grnd Cntrl 2,CSQ,AM,BM,Aircraft
+121.700000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Ground Control,Ground Cntrl,CSQ,AM,BM,Aircraft
+121.900000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Ground Control 1,Grnd Cntrl 1,CSQ,AM,BM,Aircraft
+122.900000,0.00000,,Philadelphia Intl Airport Air Traffic Control,CTAF,CTAF,CSQ,AM,BM,Aircraft
+122.950000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Unicom,Unicom,CSQ,AM,BM,Aircraft
+123.800000,0.00000,,Philadelphia Intl Airport Air Traffic Control,NE Yardley area,NE Yardley,CSQ,AM,BM,Aircraft
+124.350000,0.00000,,Philadelphia Intl Airport Air Traffic Control,North Departure,N Departure,CSQ,AM,BM,Aircraft
+125.125000,0.00000,,Philadelphia Intl Airport Air Traffic Control,South High,South High,CSQ,AM,BM,Aircraft
+125.400000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Final Approach,Final App,CSQ,AM,BM,Aircraft
+126.075000,0.00000,,Philadelphia Intl Airport Air Traffic Control,North High,North High,CSQ,AM,BM,Aircraft
+126.850000,0.00000,,Philadelphia Intl Airport Air Traffic Control,NW Pottstown area,NW Pottstown,CSQ,AM,BM,Aircraft
+126.900000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Local Control,KPNE Tower,CSQ,AM,BM,Aircraft
+127.250000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Clearence Delivery,Clear/Deliv,CSQ,AM,BM,Aircraft
+127.350000,0.00000,,Philadelphia Intl Airport Air Traffic Control,ApproachDeparture Woodstown area,A/D Woodstwn,CSQ,AM,BM,Aircraft
+128.400000,0.00000,,Philadelphia Intl Airport Air Traffic Control,North Arrival,N Arrival,CSQ,AM,BM,Aircraft
+128.400000,0.00000,,Philadelphia Intl Airport Air Traffic Control,NNEW 279,N/NE/W 27/9,CSQ,AM,BM,Aircraft
+128.825000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways,US Airways,CSQ,AM,BM,Aircraft
+128.850000,0.00000,,Philadelphia Intl Airport Airline Company Channels,LGA Cit AA,LGA Cit/AA,CSQ,AM,BM,Aircraft
+129.000000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Signature Flight Support,Signature FS,CSQ,AM,BM,Aircraft
+129.175000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Express ,US Air Expr,CSQ,AM,BM,Aircraft
+129.200000,0.00000,,Philadelphia Intl Airport Airline Company Channels,American Operations,American Air,CSQ,AM,BM,Aircraft
+129.300000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Mesa,Mesa,CSQ,AM,BM,Aircraft
+129.425000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Emery Airborne,Emr/Airborne,CSQ,AM,BM,Aircraft
+129.500000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Delta Radio 1,Delta Radio ,CSQ,AM,BM,Aircraft
+129.575000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Central Deicing Pad Control,De-Ice Pad,CSQ,AM,BM,Business
+129.700000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Signature Flight Support,Signature FS,CSQ,AM,BM,Aircraft
+129.800000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways  Load Control  OCC,USAirLoadOCC,CSQ,AM,BM,Aircraft
+129.925000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Continental,Continental,CSQ,AM,BM,Aircraft
+130.000000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways  Maintenance,US Air Maint,CSQ,AM,BM,Aircraft
+130.050000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Ramp 1,US Air Ramp1,CSQ,AM,BM,Aircraft
+130.075000,0.00000,,Philadelphia Intl Airport Airline Company Channels,American Airlines,American Air,CSQ,AM,BM,Aircraft
+130.100000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Operations,US Air Ops,CSQ,AM,BM,Aircraft
+130.150000,0.00000,,Philadelphia Intl Airport Airline Company Channels,British Airways,British Air,CSQ,AM,BM,Aircraft
+130.400000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Atlantic Aviation  Continental,Atlantic Avi,CSQ,AM,BM,Aircraft
+130.425000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Virgin America,Virgin Am,CSQ,AM,BM,Business
+130.500000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Express,US Air Expr,CSQ,AM,BM,Aircraft
+130.525000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Continental,Continental,CSQ,AM,RM,Aircraft
+130.575000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways  Ramp 2,US Air Ramp2,CSQ,AM,BM,Business
+130.600000,0.00000,,Philadelphia Intl Airport Airline Company Channels,First Aviation,1st Aviation,CSQ,AM,BM,Aircraft
+130.825000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways,US Airways,CSQ,AM,BM,Aircraft
+130.850000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways,US Airways,CSQ,AM,BM,Aircraft
+130.875000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Aircan US Airways,Aircan USAir,CSQ,AM,BM,Aircraft
+130.925000,0.00000,WPWI322,Philadelphia Intl Airport Airline Company Channels,US Airways Express Mesa,US Air Expr,CSQ,AM,BM,Aircraft
+131.000000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Operations,US Air Ops,CSQ,AM,BM,Aircraft
+131.100000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Express ,US Air Expr,CSQ,AM,RM,Aircraft
+131.300000,0.00000,,Philadelphia Intl Airport Airline Company Channels,United Parcel Service,UPS,CSQ,AM,BM,Aircraft
+131.525000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Air Jamaica,Air Jamaica,CSQ,AM,BM,Aircraft
+131.600000,0.00000,,Philadelphia Intl Airport Airline Company Channels,US Airways Express,US Air Expr,CSQ,AM,BM,Aircraft
+131.625000,0.00000,,Philadelphia Intl Airport Airline Company Channels,DHL,DHL,CSQ,AM,BM,Aircraft
+131.850000,0.00000,WSQ8,Philadelphia Intl Airport Airline Company Channels,Delta,Delta,CSQ,AM,BM,Aircraft
+131.925000,0.00000,,Philadelphia Intl Airport Airline Company Channels,FedEx,FedEx,CSQ,AM,BM,Aircraft
+131.975000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Dynair,Dynair,CSQ,AM,BM,Aircraft
+132.000000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Atlantic Aviation,Atlantic Avi,CSQ,AM,BM,Aircraft
+132.675000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Final Approach 2,Final App 2,CSQ,AM,BM,Aircraft
+133.400000,0.00000,,Philadelphia Intl Airport Air Traffic Control,ATIS,ATIS,CSQ,AM,B,Aircraft
+133.800000,0.00000,,Philadelphia Intl Airport Air Traffic Control,PHL,PHL,CSQ,AM,BM,Aircraft
+133.875000,0.00000,,Philadelphia Intl Airport Air Traffic Control,South Arrival,S Arrival,CSQ,AM,BM,Aircraft
+135.100000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Tower 2,Tower 2,CSQ,AM,BM,Aircraft
+135.875000,0.00000,,Businesses TV News Stations,News Helo AirAir,News A-A875,,AM,M,Aircraft
+135.925000,0.00000,,Philadelphia Intl Airport Air Traffic Control,ILS 26,ILS 26,CSQ,AM,BM,Aircraft
+135.975000,0.00000,,Businesses TV News Stations,News Helo AirAir Scene Coordination,News Air-Air,,AM,M,Aircraft
+136.500000,0.00000,,Philadelphia Intl Airport Airline Company Channels,Atlantic Coast United Express,Atlant Coast,CSQ,AM,BM,Aircraft
+145.270000,144.67000,W3PVI,2Meters,WPVI Channel 6 Amateur Radio Club Roxborough,W3PVI/R,131.8 PL,FM,RM,Ham
+146.685000,146.08500,WM3PEN,2Meters,Holmesburg Amateur Radio Club CenterCity,WM3PEN,146.2 PL,FM,RM,Ham
+147.030000,147.63000,W3QV,2Meters,PhilMont Mobile Radio Club Roxborough,W3QV,91.5 PL,FM,RM,Ham
+150.867500,0.00000, ,  Sunshine Communications Roxborough,Site 001 Primary,,,LTR,,TRS
+151.520000,0.00000,,Businesses Taxi Companies,All City Taxi  Dispatch,All CityTaxi,CSQ,FM,BM,Transportation
+151.542500,0.00000, ,  Sunshine Communications Roxborough,Site 001 Primary,,,LTR,,TRS
+151.895000,0.00000,,Sports StadiumsArenas Citizens Bank Park,Scoreboard,Scoreboard,,FM,M,Business
+151.985000,0.00000, ,  Sunshine Communications Roxborough,Site 001 Primary,,,LTR,,TRS
+152.285000,0.00000, ,  Sunshine Communications Roxborough,Site 001 Primary,,,LTR,,TRS
+152.315000,0.00000,WQGL692,Businesses The Franklin Institute,Operations 1,FI Ops 1,CC 10|TG 1|SL 2,DMR,RM,Business
+152.315000,0.00000,WQGL692,Businesses The Franklin Institute,Operations 2,FI Ops 2,CC 10|TG 1|SL 1,DMR,RM,Business
+152.330000,157.59000,,Businesses Taxi Companies,Walsh Cab Company poss dispatches for Yellow Cab,Walsh Cab,71.9 PL,FM,RM,Transportation
+152.345000,0.00000, ,  Sunshine Communications Center City,Site 001 Primary,,,LTR,,TRS
+152.390000,0.00000, ,  Sunshine Communications Center City,Site 001 Primary,,,LTR,,TRS
+152.435000,0.00000, ,  Sunshine Communications Roxborough,Site 001 Primary,,,LTR,,TRS
+153.072500,0.00000, ,  Sunshine Communications Roxborough,Site 001 Primary,,,LTR,,TRS
+154.482500,0.00000, ,  Sunshine Communications Roxborough,Site 001 Primary,,,LTR,,TRS
+154.497500,0.00000, ,  Sunshine Communications Roxborough,Site 001 Primary,,,LTR,,TRS
+154.570000,0.00000,,Police Department,Police Explorers,PPD Explorer,67.0 PL,FM,M,Law Talk
+154.570000,0.00000,,Businesses The Franklin Institute,The Franklin Institute,FranklinInst,100.0 PL,FM,M,Deprecated
+154.570000,0.00000,,Sports StadiumsArenas Wells Fargo Center,Wireless Headsets for Game Operations,Wireless,,FM,M,Business
+154.600000,0.00000,,Businesses The Franklin Institute,The Franklin Institute,FranklinInst,100.0 PL,FM,M,Deprecated
+158.775000,0.00000,KLS497,City Services,Water Department  Sewage Treatment Plant Internal Ops,Sewage Plant,203.5 PL,FM,BM,Public Works
+158.775000,153.87500,WQCP395,City Services,Family Court Security,Fam Crt Sec,146.2 PL,FM,RM,Public Works
+161.640000,0.00000,KJV904,Businesses TV News Stations,WPVI ABC 6  News Cars,WPVI Cars,CSQ,FM,BM,Media
+161.670000,0.00000,WPQG595,Businesses Radio Stations,WDASFM Radio Remotes,WDAS Remotes,71.9 PL,FM,BM,Media
+166.250000,158.95500,WQKJ415,Fire Department,EMS InterAgency Operations,PFD EMS I/O,83B NAC,P25,RM,Interop
+166.287500,0.00000,,Philadelphia Intl Airport Federal,TSA,TSA,001 NAC,P25,RM,Federal
+166.287500,0.00000,,Philadelphia Intl Airport Federal,TSA,TSA,003 NAC,P25,RM,Federal
+171.762500,0.00000,,Philadelphia Intl Airport Federal,TSA  low power personal radios voice inversion,TSA,131.8 PL,FMN,M,Federal
+172.900000,0.00000,,Philadelphia Intl Airport Federal,TSA  Coordination Center,TSA,001 NAC,P25,RM,Federal
+177.800000,0.00000,,Sports StadiumsArenas Wells Fargo Center,Wireless Headsets for Game Operations,Wireless,,FM,M,Deprecated
+183.730000,0.00000,,Sports StadiumsArenas Wells Fargo Center,Wireless Headsets for Game Operations,Wireless,,FM,M,Deprecated
+224.800000,223.20000,K3TU,123CM,Temple University Amateur Radio Club North Philadelphia,K3TU/R,CSQ,FM,RM,Ham
+263.125000,0.00000,,Philadelphia Intl Airport Air Traffic Control,ApproachDeparture,Approach/Dep,CSQ,AM,BM,Aircraft
+269.250000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Departure  South,Departure S,CSQ,AM,BM,Aircraft
+291.700000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Approach  NE,Approach NE,CSQ,AM,BM,Aircraft
+317.550000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Approach  South,Approach S,CSQ,AM,BM,Aircraft
+320.100000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Departure  North,Departure N,CSQ,AM,BM,Aircraft
+323.100000,0.00000,,Philadelphia Intl Airport Air Traffic Control,SE,SE,CSQ,AM,BM,Aircraft
+327.050000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Tower 1,Tower 1,CSQ,AM,BM,Aircraft
+348.600000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Ground Control 1,Grnd Cntrl 1,CSQ,AM,BM,Aircraft
+348.600000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Clearance Delivery,Clear/Deliv,CSQ,AM,BM,Aircraft
+363.125000,0.00000,,Philadelphia Intl Airport Air Traffic Control,Approach  NW,Approach NW,CSQ,AM,BM,Aircraft
+386.212500,0.00000, ,  United States Department of Defense 14C,Site 089 Naval Support Activity Philadelphia,,,Project 25,,TRS
+386.362500,0.00000, ,  United States Department of Defense 14C,Site 095 Philadelphia Navy Shipyard,,,Project 25,,TRS
+386.512500,0.00000, ,  United States Department of Defense 14C,Site 089 Naval Support Activity Philadelphia,,,Project 25,,TRS
+386.662500,0.00000, ,  United States Department of Defense 14C,Site 089 Naval Support Activity Philadelphia,,,Project 25,,TRS
+386.812500,0.00000, ,  United States Department of Defense 14C,Site 095 Philadelphia Navy Shipyard,,,Project 25,,TRS
+386.962500,0.00000, ,  United States Department of Defense 14C,Site 095 Philadelphia Navy Shipyard,,,Project 25,,TRS
+406.812500,0.00000, ,  Federal Detention Center Philadelphia,Site 001 Primary,,,Project 25,,TRS
+408.250000,0.00000, ,  Federal Detention Center Philadelphia,Site 001 Primary,,,Project 25,,TRS
+441.700000,446.70000,W3WAN,70CM,WideArea AllStar Linked Repeater CenterCity,W3WAN/R,74.4 PL,FM,RM,Ham
+442.550000,447.55000,W3SBE,70CM,Philadelphia Broadcast Engineers Amateur Radio Club Roxborough,W3SBE/R,91.5 PL,FM,RM,Ham
+444.800000,449.80000,W3QV,70CM,PhilMont Mobile Radio Club Roxborough,W3QV/R YSF,,YSF,RM,Ham
+444.800000,449.80000,W3QV,70CM,PhilMont Mobile Radio Club Roxborough,W3QV/R,186.2 PL,FM,RM,Ham
+449.775000,444.77500,WB0CPR,70CM,General Use Repeater Frankford,WB0CPR/R,141.3 PL,FM,RM,Ham
+450.187500,0.00000,KPG670,Businesses TV News Stations,KYW CBS 3  Chopper 3 Secondary,Chopper 3,107.2 PL,FM,BM,Media
+450.287500,0.00000,KPH640,Businesses TV News Stations,WTXF Fox  29  SkyFox   Ground Units,SkyFox 29,151.4 PL,FM,RM,Media
+450.387500,0.00000,KB96736,Businesses TV News Stations,WTXF Fox 29,Fox 29,,FM,M,Media
+450.550000,455.55000,KVK604,Businesses TV News Stations,KYW CBS 3  Chopper 3 Primary,Chopper 3,107.2 PL,FM,RM,Media
+450.850000,455.85000,KPH252,Businesses Traffic Reporting Services,Metro Networks Shadow Traffic,Metro Shadow,97.4 PL,FM,RM,Media
+451.362500,456.36250,WQDL307,Sports StadiumsArenas Wells Fargo Center,Information Technology Department,IT Dept,,DMR,RM,Business
+451.387500,456.38750,WQUI668,Businesses Philadelphia Zoo,Aramark Food Services,PhlZooAramrk,371 DPL,FMN,RM,Business
+451.400000,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 1,CCOP-CH 1,210.7 PL,FMN,M,Business
+451.512500,456.51250,WQBQ282,Saint Joseph University,Security 1,St. Joe U 1,CC 3|TG 500|SL 1,DMR,RM,Security
+451.637500,456.63750,WQQN643,Philadelphia Intl Airport Airline Ground Operations,JetBlue Airways,JBU,1 RAN,NXDN,RM,Business
+451.650000,0.00000, ,  American Eagle PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+451.662500,456.66250,,Sports StadiumsArenas Wells Fargo Center,Arenavision techs F2,AV Techs 2,,DMR,RM,Business
+451.700000,0.00000, ,  Commpaths LLC,Site 002 Site 2 Center City,,,LTR,,TRS
+451.875000,0.00000, ,  MidAtlantic Digital Radio Network,Site 018 Philadelphia,,,DMR,,TRS
+451.887500,456.88750,WQGB543,University of Pennsylvania,University City District  Escorts  Security,U.C.D. Ops,723 DPL,FMN,RM,Security
+451.962500,456.96250,WQAT722,Philadelphia Intl Airport Airport Services,SmartPark,SmartPark,703 DPL,FMN,RM,Business
+451.975000,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 4,CCOP-CH 4,225.7 PL,FMN,M,Business
+452.012500,457.01250,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 1  Command Center,Command Ctr,311 DPL,FM,RM,Business
+452.062500,0.00000, ,  United Parcel Service PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+452.100000,0.00000, ,  Commpaths LLC,Site 001 Site 1 Roxborough,,,LTR,,TRS
+452.175000,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 11  Media relationsPublic Relations,Public Relat,,FM,M,Business
+452.200000,0.00000, ,  Commpaths LLC,Site 002 Site 2 Center City,,,LTR,,TRS
+452.225000,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 5,CCOP-CH 5,233.6 PL,FMN,M,Business
+452.250000,0.00000, ,  Commpaths LLC,Site 001 Site 1 Roxborough,,,LTR,,TRS
+452.300000,0.00000, ,  Commpaths LLC,Site 001 Site 1 Roxborough,,,LTR,,TRS
+452.387500,0.00000, ,  Commpaths LLC,Site 002 Site 2 Center City,,,LTR,,TRS
+452.400000,457.40000,WPCE473,Businesses Taxi Companies,Medallion Radio Cab  Taxi Dispatch primarily for Germantown Cab,MedallionCab,71.9 PL,FM,RM,Transportation
+452.450000,0.00000, ,  Commpaths LLC,Site 001 Site 1 Roxborough,,,LTR,,TRS
+452.500000,0.00000, ,  Commpaths LLC,Site 001 Site 1 Roxborough,,,LTR,,TRS
+452.562500,0.00000, ,  MidAtlantic Digital Radio Network,Site 018 Philadelphia,,,DMR,,TRS
+452.625000,457.62500,,Businesses Medical  Hospitals,Hahnemann University Hospital  Security,HUH Security,734 DPL,FM,RM,Security
+452.737500,0.00000, ,  Commpaths LLC,Site 002 Site 2 Center City,,,LTR,,TRS
+452.775000,0.00000, ,  American Eagle PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+452.787500,457.78750,WQDL307,Sports StadiumsArenas Wells Fargo Center,Parking Ch 1,Parking 1,,Telm,RM,Business
+452.800000,0.00000, ,  Commpaths LLC,Site 001 Site 1 Roxborough,,,LTR,,TRS
+452.850000,457.85000,WPQC349,Town Watch,West Frankford,WFrankfrd TW,71.9 PL,FMN,RM,Security
+452.875000,0.00000, ,  American Eagle PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+453.012500,458.01250,WQLR715,University of Pennsylvania,Housing and Conference,UPenn Ops,CC 10|TG 101|SL 2,DMR,RM,Schools
+453.250000,458.25000,WQCG318,City Services,Prisons  Transportation,Prisons Trns,91.5 PL,FM,RM,Corrections
+453.350000,458.35000,WQCF247,City Services,Free Library of Philadelphia Maintenance and Security,Library Ops,136.5 PL,FM,RM,Public Works
+453.400000,458.40000,WQCG318,City Services,Prisons  Maintenance,Prisons Mnt,103.5 PL,FM,RM,Corrections
+453.725000,458.72500,KGF991,City Services,Public Property Band,Public Prop,91.5 PL,FM,RM,Public Works
+453.775000,458.77500,KGF991,City Services,Health Band  Sanitation Units and Health Dept,Sanit/Health,91.5 PL,FM,RM,Public Works
+453.850000,458.85000,KNDN543,Philadelphia Intl Airport Airport Operations,Maintenance,Maintenance,,FM,RM,Public Works
+453.925000,458.92500,KGF991,City Services,Streets Band,Streets,91.5 PL,FM,RM,Public Works
+454.018750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.031250,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.043750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.118750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.143750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.168750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.218750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.231250,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.256250,0.00000, ,  MidAtlantic Digital Radio Network,Site 018 Philadelphia,,,DMR,,TRS
+454.275000,0.00000, ,  MidAtlantic Digital Radio Network,Site 018 Philadelphia,,,DMR,,TRS
+454.293750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.318750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.343750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.368750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.381250,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.400000,0.00000, ,  Homan Communications,Site 003 Center City,,,NXDN,,TRS
+454.425000,0.00000, ,  Homan Communications,Site 003 Center City,,,NXDN,,TRS
+454.475000,0.00000, ,  Homan Communications,Site 003 Center City,,,NXDN,,TRS
+454.500000,0.00000, ,  Homan Communications Philadelphia,Site 001 Confirmed LCN,,,LTR,,TRS
+454.500000,0.00000, ,  Homan Communications,Site 003 Center City,,,NXDN,,TRS
+454.575000,0.00000, ,  Homan Communications Philadelphia,Site 001 Confirmed LCN,,,LTR,,TRS
+454.575000,0.00000, ,  Homan Communications,Site 003 Center City,,,NXDN,,TRS
+454.600000,0.00000, ,  Homan Communications Philadelphia,Site 001 Confirmed LCN,,,LTR,,TRS
+454.618750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+454.643750,0.00000, ,  OneVoice Network,Site 028 Philadelphia,,,DMR,,TRS
+455.050000,0.00000,KEH242,Businesses TV News Stations,WCAU NBC 10  Chopper 10 Primary,Chopper 10,114.8 PL,FM,BM,Media
+455.087500,0.00000,KPK520,Businesses TV News Stations,WPVI ABC 6  Chopper 6,Chopper 6,156.7 PL,FM,BM,Media
+455.150000,0.00000,KEH242,Businesses TV News Stations,WCAU NBC 10  Chopper 10 Secondary,Chopper 10,114.8 PL,FM,BM,Media
+455.212500,0.00000,WQAA818,Businesses TV News Stations,WCAU NBC 10  IFB Feed and Control,WCAU IFB,103.5 PL,FM,BM,Media
+455.237500,0.00000,KPK520,Businesses TV News Stations,WPVI ABC 6  IFB Feed and Control,WPVI IFB,156.7 PL,FM,BM,Media
+455.512500,0.00000,WQA948,Businesses TV News Stations,WCAU NBC 10  IFB Feed and Talent,WCAU IFB,141.3 PL,FM,BM,Media
+455.725000,450.72500,,Businesses TV News Stations,WPVI ABC 6  Chopper 6 Primary New,Chopper 6,156.7 PL,FM,RM,Media
+456.900000,0.00000,WQGP939,Sports StadiumsArenas Citizens Bank Park,Aramark Beer Cooler  Supply,Beer Cooler,506 DPL,FM,M,Business
+456.975000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 3  Medical,Medical,,DMR,M,EMS-Talk
+457.175000,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 12  Corporate sales,Corp Sales,,FM,M,Business
+457.800000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 4  Aramark Food Service Management,FoodSvc Mgmt,506 DPL,FMN,M,Business
+460.150000,465.15000,WQCG318,City Services,Prisons  Operations,Prisons Ops,91.5 PL,FM,RM,Corrections
+460.400000,465.40000,WQBY672,Temple University,Police Dispatch  Operations,TempleU PD,CC 1|TG *|SL *,DMR,RM,Law Dispatch
+460.650000,0.00000,,Philadelphia Intl Airport Airport Operations,Airport Ground Operations United Airlines,Airport Ops,110.9 PL,FM,RM,Public Works
+460.700000,465.70000,WQCV321,Philadelphia Intl Airport Airline Ground Operations,British Airways  Ground Support,BAW,123.0 PL,FM,RM,Business
+460.725000,465.72500,KBO745,Philadelphia Intl Airport Airline Ground Operations,United Airlines,UAL,,DMR,RM,Business
+460.750000,0.00000,WPZX863 ,Philadelphia Intl Airport Airline Ground Operations,Southwest Airlines,SWA,023 DPL,FMN,M,Business
+460.775000,465.77500,KXK923,Philadelphia Intl Airport Airline Ground Operations,American Airlines,AAL,114.8 PL,FMN,BM,Business
+460.850000,0.00000, ,  American Eagle PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+460.875000,465.87500,WPCV305,Philadelphia Intl Airport Airline Ground Operations,Delta Airlines,DAL,127.3 PL,FMN,RM,Business
+461.050000,466.05000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 5  Global Spectrum Slot 1 Group 14,GlobalSpctrm,CC 1|TG *|SL *,DMR,RM,Business
+461.075000,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 9  Scoreboard,Scoreboard,,FM,M,Business
+461.125000,466.12500,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 2  Housekeeping,Housekeeping,172 DPL,FM,RM,Business
+461.137500,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Security Ch 4  Auxiliary,Security 4,,FM,M,Security
+461.175000,466.17500,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 6  ARA Custodians Slot 1 Group 15,Custodial,CC 1|TG *|SL *,DMR,RM,Business
+461.200000,466.20000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 17  Aramark Food Service,Food Service,146.2 PL,FM,RM,Business
+461.237500,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Security Ch 1  Simplex,Security 1,,FM,M,Security
+461.387500,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Security Ch 2  Command Post Simplex,Security 2,,FM,M,Security
+461.387500,466.38750,,Sports StadiumsArenas Wells Fargo Center,Aramark Food Service,Food Service,,DMR,RM,Business
+461.425000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 7  Promo  Entertainment,Entertainmnt,,DMR,M,Business
+461.437500,0.00000, ,  Sugarhouse Casino,Site 001 Site 1,,,NXDN,,TRS
+461.450000,466.45000,WPRA353,Town Watch,Wissinoming,Wissinom TW,203.5 PL,FM,RM,Security
+461.475000,466.47500,WNYM895,University of Pennsylvania,Escorts and Security Operations,UPenn Sec.,143 DPL,FMN,RM,Security
+461.475000,466.47500,WPIG588,Town Watch,Citywide Townwatch Operations,Townwatch 1,,FMN,RM,Security
+461.512500,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Aramark Food Service  Suite Level,Food Service,,DMR,BM,Business
+461.525000,0.00000, ,  MidAtlantic Digital Radio Network,Site 018 Philadelphia,,,DMR,,TRS
+461.562500,466.56250,WQAT722,Philadelphia Intl Airport Airport Services,SmartPark,SmartPark,162.2 PL,FMN,RM,Business
+461.600000,467.60000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 16  Emergency Repeater,Emergency,,DMR,RM,Business
+461.600000,0.00000, ,  Commpaths,Site 002 Philadelphia,,,NXDN,,TRS
+461.637500,466.63750,WPUI957,Philadelphia University,Maintenance Operations,PhilaU Mntc,306 DPL,FMN,RM,Business
+461.662500,0.00000, ,  Sugarhouse Casino,Site 001 Site 1,,,NXDN,,TRS
+461.662500,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 2,CCOP-CH 2,218.1 PL,FMN,M,Business
+461.700000,466.70000,WPDA593,Businesses Medical  Hospitals,Jefferson University Hospital  Wills Eye  Security,JUH Security,CC 1|TG 1000|SL 1,DMR,RM,Security
+461.750000,466.75000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 6  Premium Services,Premium Svcs,351 DPL,FM,RM,Business
+461.800000,466.80000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 3  Event Staff,Event Staff,654 DPL,FM,RM,Business
+461.850000,466.85000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 1  Park Operations  Public Security Slot 1 Group 11,Park Ops/Sec,CC 1|TG *|SL *,DMR,RM,Security
+461.887500,466.88750,WQPD214,Philadelphia Intl Airport Airport Services,PreFlight Parking,PreFlight,223 DPL,FMN,RM,Business
+461.925000,466.92500,,Businesses Medical  Hospitals,UPHS Hospital of the University of Pennsylvania HUP  Security,HUP Security,250.3 PL,FM,RM,Security
+461.975000,466.97500,WPIG588,Town Watch,Citywide Townwatch Operations,Townwatch 2,,FMN,RM,Security
+462.000000,467.00000,KFE659,University of Pennsylvania,Medical Emergency Medical Response Team MERT  Secondary,UPenn MERT 2,,FMN,RM,EMS-Tac
+462.012500,467.01250,WQJQ989,Chestnut Hill College,Campus Security,CHC Security,CC 8|TG 101|SL 1,DMR,RM,Security
+462.012500,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Extra 1  76ers Game Operations,76er GameOps,,DMR,BM,Business
+462.025000,0.00000,WPUX469,Philadelphia Intl Airport Airline Ground Operations,Aircraft Service International Group  US Airways BC Terminal,ASIG TermB/C,132 DPL,FM,M,Business
+462.050000,467.05000,KLZ411,Drexel University,Security Dispatch  Operations,DrexelU Sec,CC 1|TG *|SL *,DMR,RM,Security
+462.062500,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Extra 2  Talent coordination ,Talent Coord,,DMR,BM,Business
+462.125000,467.12500,WQEU894,Philadelphia Intl Airport Airport Services,First Transit  Airport Shuttle Buses,FirstTrans,565 DPL,FMN,RM,Business
+462.150000,467.15000,,Businesses Medical  Hospitals,Childrens Hospital of Philadelphia CHOP  Helipad,CHOP Helipad,192.8 PL,FM,RM,Hospital
+462.150000,467.15000,,Businesses Medical  Hospitals,Childrens Hospital of Philadelphia CHOP  Security,CHOP Sec,192.8 PL,FM,RM,Security
+462.162500,0.00000, ,  Sugarhouse Casino,Site 001 Site 1,,,NXDN,,TRS
+462.225000,467.22500,WPZX863,Philadelphia Intl Airport Airline Ground Operations,Southwest Airlines,Southwest,025 DPL,FM,RM,Business
+462.500000,467.50000,WQCZ417,Philadelphia Intl Airport Airport Services,Enterprise RentACar,Enterprise,565 DPL,FMN,RM,Business
+462.512500,467.51250,WPMH864,Philadelphia Intl Airport Airport Services,Parkway  Taxi Dispatch,Taxi Dispatc,743 DPL,FMN,RM,Business
+462.512500,467.51250,WPXS653,Businesses Philadelphia Zoo,Operations,Philly Zoo,136.5 PL,FM,RM,Public Works
+462.712500,0.00000,,Businesses Calvary Chapel of Philadelphia,Channel 9 FRS Channel 7,CCOP-CH 9,94.8 PL,FMN,M,Business
+462.925000,0.00000,WQJA821,Businesses Philadelphia Zoo,Paging,PhlZooPaging,,FMN,B,Data
+463.300000,468.30000,WPMP942,Town Watch,Tacony  Boulevard,Tac/Blvd TW,186.2 PL,FMN,RM,Security
+463.300000,468.30000,WQBQ282,Saint Joseph University,Unknown Operations,St. Joe U 2,,FMN,RM,Schools
+463.350000,468.35000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 15  Rest Association,Rest Assoc,432 DPL,FM,RM,Business
+463.400000,468.40000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 13  Stores  Retail,Retail,351 DPL,FM,RM,Business
+463.450000,468.45000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 2  Player Security Slot 1 Group 12,Player Sec,CC 1|TG *|SL *,DMR,RM,Security
+463.462500,0.00000, ,  Sugarhouse Casino,Site 001 Site 1,,,NXDN,,TRS
+463.487500,468.48750,WQTR326,Businesses Philadelphia Zoo,Keepers,PhlZooKeeprs,047 DPL,FMN,RM,Business
+463.500000,468.50000,WPZX863,Philadelphia Intl Airport Airline Ground Operations,Southwest Airlines,Southwest,464 DPL,FM,RM,Business
+463.537500,468.53750,WPYY887,Businesses The Philadelphian Apartment Building,Security and Maintenance Operations,PAB Ops.,50 RAN,NXDN,RM,Business
+463.537500,468.53750,WQTR326,Businesses Philadelphia Zoo,Main Ops Facilities Guest Service Retail etc,PhlZoo Main,047 DPL,FMN,RM,Business
+463.550000,0.00000,WPUX469,Philadelphia Intl Airport Airline Ground Operations,Aircraft Service International Group  US Airways Express F Terminal,ASIG Term F,132 DPL,FM,M,Business
+463.600000,468.60000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 14  Sports Services,Sports Svcs,071 DPL,FM,RM,Business
+463.612500,0.00000,,Sports StadiumsArenas Wells Fargo Center,Aramark Food Service  Club Box Level,Food Service,,DMR,BM,Business
+463.625000,0.00000,WQBQ282,Saint Joseph University,Unknown Operations,St. Joe U 3,,FMN,BM,Schools
+463.675000,468.67500,WPZX865,Philadelphia Intl Airport Airline Ground Operations,Southwest Airlines  Ramp,SWA Ramp,100.0 PL,FMN,RM,Business
+463.712500,468.71250,WPXS653,Businesses Philadelphia Zoo,Operations,Philly Zoo,CSQ,FM,RM,Public Works
+463.725000,468.72500,WPIG588,Town Watch,Citywide Townwatch Operations,Townwatch 3,,FMN,RM,Security
+463.725000,468.72500,WPIG588,Town Watch,Bridsburg,Bridsburg TW,167.9 PL,FMN,RM,Security
+463.737500,468.73750,WPKF287,Sports StadiumsArenas Wells Fargo Center,Operations,Operations,,DMR,RM,Business
+463.837500,468.83750,WPYC747,Sports StadiumsArenas Lincoln Financial Field,The Linc ,The Linc,332 DPL,FM,RM,Business
+463.862500,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Arenavision techs F1,AV Techs 1,,DMR,BM,Business
+463.900000,468.90000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Security  Command Center,Security,,DMR,RM,Security
+463.987500,468.98750,WQIB244,Philadelphia Intl Airport Airline Ground Operations,Air Wisconsin  Maintenance,AWI Maint,743 DPL,FMN,RM,Business
+463.987500,0.00000,,Sports StadiumsArenas Wells Fargo Center,Aramark Food Service  Holts  Victors,Food Service,,DMR,BM,Business
+464.012500,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Building Services  Maintenance,Bldg Maint,,DMR,BM,Business
+464.025000,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 4  VIP Parking,VIP Parking,065 DPL,FM,M,Business
+464.025000,0.00000, ,  MidAtlantic Digital Radio Network,Site 018 Philadelphia,,,DMR,,TRS
+464.087500,469.08750,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Security Ch 3  Repeater Primary,Security 3,,FM,RM,Security
+464.100000,469.10000,WQBV358,Businesses Medical  Hospitals,Albert Einstein Medical Center  Security,AEMC Security,10 RAN,NXDN,RM,Security
+464.125000,0.00000, ,  Commpaths,Site 002 Philadelphia,,,NXDN,,TRS
+464.137500,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Public Relations  76ers Operations Management,Public Relat,,DMR,BM,Business
+464.187500,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,VIP  Flyers,VIP / Flyers,,DMR,BM,Business
+464.300000,0.00000, ,  Commpaths,Site 002 Philadelphia,,,NXDN,,TRS
+464.312500,469.31250,WPXS653,Businesses Philadelphia Zoo,Operations,Philly Zoo,CSQ,FM,RM,Public Works
+464.362500,469.36250,KFE659,University of Pennsylvania,Medical Emergency Response Team MERT  Primary,UPenn MERT 1,143 DPL,FMN,RM,EMS-Tac
+464.400000,0.00000,,Businesses Medical  Hospitals,Methodist Hospital,Method Hosp,,FM,RM,Hospital
+464.425000,469.42500,,Southeastern Pennsylvania Transportation Authority SEPTA,1234 Market St Security,1234 Market,,FMN,RM,Security
+464.500000,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 6,CCOP-CH 6,250.3 PL,FMN,M,Business
+464.550000,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 7,CCOP-CH 7,254.1 PL,FMN,M,Business
+464.575000,469.57500,WPZX863,Philadelphia Intl Airport Airline Ground Operations,Southwest Airlines  Wheelchairs,SWA Wchr,025 DPL,FM,RM,Business
+464.700000,469.70000,WPAG964,Temple University,Maintenance and Operations,Temple U Maint,506 DPL,FMN,RM,Schools
+464.725000,469.72500,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 7  Medical,Medical,229.1 PL,FM,RM,Business
+464.750000,469.75000,,Sports StadiumsArenas Lincoln Financial Field,Security New 2010,Security,233.6 PL,FM,RM,Security
+464.750000,469.75000,,Businesses Central Philadelphia Development Corporation Center City District,Center City District Operations See Talkgroups List,CC District,CC 12|TG *|SL *,DMR,RM,Business
+464.762500,0.00000,,Sports StadiumsArenas Wells Fargo Center,Parking  Outside Security,Parking/Sec,,DMR,RM,Business
+464.812500,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 3,CCOP-CH 3,203.5 PL,FMN,M,Business
+464.812500,0.00000,WQDY324,Businesses Calvary Chapel of Philadelphia,Channel 8,CCOP-CH 8,229.1 PL,FMN,M,Business
+464.850000,469.85000,WPIG588,Town Watch,Citywide Townwatch Operations,Townwatch 4,,FMN,RM,Security
+464.900000,0.00000,WPUX469,Philadelphia Intl Airport Airline Ground Operations,Aircraft Service International Group  Afternoon A Terminal,ASIG Term A,132 DPL,FM,M,Business
+464.950000,0.00000, ,  Commpaths,Site 002 Philadelphia,,,NXDN,,TRS
+465.737500,0.00000,,Sports StadiumsArenas Wells Fargo Center,Arenavision ,ArenaVision,,DMR,BM,Business
+466.025000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 8  AudioVideo,Audio/Video,,DMR,M,Business
+466.075000,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 16  Trainers,Trainers,,FM,M,Business
+466.075000,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 10  Swoop,Swoop,,FM,M,Business
+466.275000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 9  Parking,Parking,,DMR,M,Business
+466.325000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 10  Upper Concourse and Ramp Security,UC/Ramp Sec,,DMR,M,Security
+466.425000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 11  Bullpen Security,Bullpen Sec,,DMR,M,Security
+466.575000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 12  Premium Services,Premium Svcs,,DMR,M,Business
+466.712500,0.00000,,Sports StadiumsArenas Citizens Bank Park,Comcast Sportsnet,Sportsnet,,FM,M,Business
+466.762500,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Operations Event Coordination,Event Coord,,DMR,RM,Business
+466.862500,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Operations Event Coordination,Event Coord,,DMR,RM,Business
+466.975000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 13  Switch Over,Ch 13 T/A,,DMR,M,Business
+466.975000,0.00000,WPXS653,Businesses Philadelphia Zoo,Operations,Philly Zoo,CSQ,FM,M,Public Works
+467.662500,0.00000,,Sports StadiumsArenas Wells Fargo Center,Flyers,Flyers,,FM,M,Business
+467.925000,0.00000,WQBQ282,Saint Joseph University,Unknown Operations Low Power,St. Joe U 4,,FMN,M,Schools
+468.300000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 14  Switch Over,Ch 14 T/A,,DMR,M,Business
+468.425000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Ch 15  Switch Over,Ch 15 T/A,,DMR,M,Business
+468.600000,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 8  AudioVideo,Audio/Video,,FM,M,Business
+468.612500,0.00000,WQBQ282,Saint Joseph University,Unknown Operations Low Power,St. Joe U 5,,FMN,M,Schools
+468.700000,0.00000,WQGL616,Sports StadiumsArenas Citizens Bank Park,Emergency Simplex,Emergency,,DMR,M,Business
+468.900000,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Security  Command Center Direct,Security,,DMR,BM,Security
+469.025000,0.00000,WPYC747,Sports StadiumsArenas Lincoln Financial Field,Ch 5  Cheerleaders,Cheerleaders,,FM,M,Business
+469.087500,0.00000,WPKF287,Sports StadiumsArenas Wells Fargo Center,Parking Ch 2  Scalper Patrol,Parking 2,,FM,BM,Business
+476.050000,0.00000,,Sports StadiumsArenas Wells Fargo Center,Cameramen,Cameramen,,FM,RM,Business
+500.387500,503.38750,KCE583,City Services,Parking Authority  Parking EnforcementBoot Squad,PPA Parking,79.7 PL,FM,RM,Law Talk
+502.212500,0.00000, ,  Homan Communications,Site 003 Center City,,,NXDN,,TRS
+502.687500,505.68750,WPKC901,Southeastern Pennsylvania Transportation Authority SEPTA,Transit Police Dispatch rebroadcasts PPD J Band,SEPTA Police,CSQ,FM,RM,Law Dispatch
+502.737500,505.73750,,Southeastern Pennsylvania Transportation Authority SEPTA,City Transit Division  MarketFrankford and Broad Street Line Maintenance,SEPTA MOW,CSQ,FM,RM,Transportation
+502.762500,505.76250,KEF776,Southeastern Pennsylvania Transportation Authority SEPTA,City Transit Division  Broad Street Line Subway Dispatch Orange Line,SEPTA BSL,CSQ,FM,RM,Transportation
+502.787500,505.78750,WPKC383,Southeastern Pennsylvania Transportation Authority SEPTA,City Transit Division  MarketFrankford Line Elevated Dispatch Blue Line,SEPTA MFL,CSQ,FM,RM,Transportation
+502.837500,505.83750,KCE583,City Services,Parking Authority  Tow SquadImpoundment,PPA Tow,79.7 PL,FM,RM,Law Talk
+504.137500,0.00000,,Southeastern Pennsylvania Transportation Authority SEPTA,City Transit Division  MarketFrankford Line Yard Ops,SEPTA MFL YD,131.8 PL,FM,M,Transportation
+506.337500,0.00000, ,  Fleetcall,Site 003 Philadelphia,,,NXDN,,TRS
+506.700000,0.00000, ,  Fleetcall,Site 003 Philadelphia,,,NXDN,,TRS
+506.975000,0.00000, ,  Fleetcall,Site 003 Philadelphia,,,NXDN,,TRS
+506.987500,509.98750,WII480,University of Pennsylvania,Police Primary old analog dispatch ,UPenn PD 1,203.5 PL,FMN,RM,Law Dispatch
+506.987500,509.98750,WII480,University of Pennsylvania,Police Dispatch Encrypted,UPenn PD,CC 10|TG 100|SL 1,DMRE,RM,Law Dispatch
+507.262500,510.26250,WII480,University of Pennsylvania,Police Tertiary,UPenn PD 3,,FMN,RM,Law Tac
+507.900000,0.00000, ,  Fleetcall,Site 003 Philadelphia,,,NXDN,,TRS
+508.212500,511.21250,WIK357,City Services,Housing Authority  Police Dispatch,PHA Police,141.3 PL,FM,RM,Law Dispatch
+508.387500,511.38750,KCE583,City Services,Parking Authority  TaxiLimo Enforcement,PPA Inspectn,79.7 PL,FM,RM,Law Talk
+508.912500,511.91250,WII480,University of Pennsylvania,Police Secondary Special Events  Operations,UPenn PD 2,203.5 PL,FMN,RM,Law Tac
+851.075000,0.00000,WQCH483,Fire Department,North Fireground,PFD FG North,CSQ,FM,M,Fire-Tac
+851.100000,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+851.250000,0.00000, ,  Pennsylvania Statewide Radio Network PASTARNet,Site 101091 Philadelphia PHIL91,,,OpenSky,,TRS
+851.287500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+851.337500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+851.362500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+851.587500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+851.687500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+851.712500,0.00000,WQCH483,Fire Department,South Fireground,PFD FG South,186.2 PL,FM,M,Fire-Tac
+851.787500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+851.800000,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+851.812500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+851.837500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+851.850000,0.00000,WQCH483,City Services,City Municipal Tactical 1,Muni Tac 1,CAD NAC,P25,M,Public Works
+852.062500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+852.087500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+852.100000,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+852.112500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+852.225000,0.00000,WQCH483,Fire Department,NorthSouth Fireground Secondary,PFD FG N/S,CSQ,FM,M,Fire-Tac
+852.350000,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+852.412500,0.00000,WQCH483,Police Department,Police Tac1,PPD Tac-1,CAD NAC,P25,M,Law Tac
+852.437500,0.00000,WQCH483,Police Department,Police Tac2,PPD Tac-2,CAD NAC,P25,M,Law Tac
+852.562500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+852.575000,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+852.587500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+852.725000,0.00000, ,  Pennsylvania Statewide Radio Network PASTARNet,Site 101064 Philadelphia PHIL64,,,OpenSky,,TRS
+852.812500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+852.837500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+852.850000,0.00000,WQCH483,City Services,City Municipal Tactical 2,Muni Tac 2,CAD NAC,P25,M,Public Works
+852.862500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+852.912500,0.00000, ,  Pennsylvania Statewide Radio Network PASTARNet,Site 101002 Philadelphia PHIL02,,,OpenSky,,TRS
+852.937500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+852.975000,0.00000, ,  Pennsylvania Statewide Radio Network PASTARNet,Site 101063 Philadelphia PHIL63,,,OpenSky,,TRS
+853.050000,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+853.062500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+853.075000,0.00000,WQCH483,City Services,City Municipal Tactical 3,Muni Tac 3,CAD NAC,P25,M,Public Works
+853.087500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+853.162500,0.00000, ,  Pennsylvania Statewide Radio Network PASTARNet,Site 101002 Philadelphia PHIL02,,,OpenSky,,TRS
+853.275000,0.00000,WQCH483,City Services,Public Property Tac 1,Prop Tac 1,CAD NAC,P25,M,Public Works
+853.287500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+853.312500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+853.337500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+853.362500,0.00000, ,  Pennsylvania Statewide Radio Network PASTARNet,Site 101062 Philadelphia PHIL62,,,OpenSky,,TRS
+853.537500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+853.550000,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+853.562500,0.00000, ,  Philadelphia,Site 004 Zone 2 Simulcast,,,Project 25,,TRS
+853.575000,0.00000, ,  PECO Energy,Site 001 Philadelphia,,,Project 25,,TRS
+853.575000,0.00000,WQCH483,City Services,Public Property Tac 2,Prop Tac 2,CAD NAC,P25,M,Public Works
+853.587500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+853.662500,0.00000, ,  Pennsylvania Statewide Radio Network PASTARNet,Site 101002 Philadelphia PHIL02,,,OpenSky,,TRS
+853.787500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+853.812500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+853.837500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+853.875000,0.00000, ,  Pennsylvania Statewide Radio Network PASTARNet,Site 101601 Philadelphia PHIL601,,,OpenSky,,TRS
+854.087500,0.00000, ,  PECO Energy,Site 001 Philadelphia,,,Project 25,,TRS
+854.887500,0.00000, ,  PECO Energy,Site 001 Philadelphia,,,Project 25,,TRS
+855.787500,810.78750,WNKV367,School District,Alternate School Bus Repeater Backup,PSD ALT Rpt.,734 DPL,FM,RM,Schools
+855.887500,0.00000, ,  PECO Energy,Site 001 Philadelphia,,,Project 25,,TRS
+855.912500,0.00000, ,  PECO Energy,Site 001 Philadelphia,,,Project 25,,TRS
+856.287500,0.00000, ,  American Airlines PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+856.662500,0.00000, ,  PECO Energy,Site 001 Philadelphia,,,Project 25,,TRS
+856.862500,0.00000, ,  American Airlines PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+857.187500,0.00000, ,  PECO Energy,Site 001 Philadelphia,,,Project 25,,TRS
+857.287500,0.00000, ,  American Airlines PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+857.537500,0.00000, ,  PECO Energy,Site 001 Philadelphia,,,Project 25,,TRS
+857.737500,812.73750,WNGE384,Citywide Mutual Aid,Citywide 4,Citywide 4,CSQ,FM,RM,Deprecated
+857.737500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+858.187500,0.00000, ,  PECO Energy,Site 001 Philadelphia,,,Project 25,,TRS
+858.287500,0.00000, ,  American Airlines PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+858.737500,0.00000, ,  Philadelphia,Site 003 Zone 1 Simulcast,,,Project 25,,TRS
+858.737500,813.73750,WNGE384,Citywide Mutual Aid,Citywide 3,Citywide 3,CSQ,FM,RM,Deprecated
+858.837500,813.83750,WNKV367,School District,Passyunk Base School Bus Repeater,PSD PAS Rpt.,734 DPL,FM,RM,Schools
+859.162500,0.00000, ,  PECO Energy,Site 001 Philadelphia,,,Project 25,,TRS
+859.287500,0.00000, ,  American Airlines PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+859.687500,814.68750,WNLS867,Businesses Durham School Services,Durham School Services  Operations,Durham Bus,532 DPL,FM,RM,Transportation
+859.737500,814.73750,WNGE384,Citywide Mutual Aid,Citywide 2,Citywide 2,CSQ,FM,RM,Multi-Talk
+859.812500,814.81250,WNKV367,School District,Shallcross Base School Bus Repeater,PSD SHC Rpt.,734 DPL,FM,RM,Schools
+860.287500,0.00000, ,  American Airlines PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+860.737500,815.73750,WNGE384,Citywide Mutual Aid,Citywide 1,Citywide 1,CSQ,FM,RM,Multi-Talk
+860.812500,815.81250,WNKV367,School District,Widener Base School Bus Repeater,PSD WID Rpt.,734 DPL,FM,RM,Schools
+860.862500,0.00000, ,  American Airlines PHL,Site 001 Confirmed LCN,,,DMR,,TRS
+860.912500,815.91250,WNKV367,School District,Broad Street Base School Bus Repeater,PSD BRD Rpt.,734 DPL,FM,RM,Schools
+866.575000,0.00000,WQCH483,Philadelphia Intl Airport Airport Operations,PHL Airport Tactical 1,KPHL Tac 1,N-CAD NAC,FM,M,Public Works
+868.975000,0.00000,WQCH483,Philadelphia Intl Airport Airport Operations,PHL Airport Tactical 2,KPHL Tac 2,N-CAD NAC,FM,M,Public Works
+927.887500,915.88750,W3SBE,33CM,Philadelphia Broadcast Engineers Amateur Radio Club Roxborough,W3SBE/R,91.5 PL,FMN,RM,Ham
